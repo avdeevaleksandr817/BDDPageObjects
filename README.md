@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/432iak0c0v3co3ev?svg=true)](https://ci.appveyor.com/project/avdeevaleksandr817/bddpageobjects)
+
+
 # BDDPageObjects
 # Домашнее задание к занятию «2.4. BDD»
 # Задача №1: Page Object's
